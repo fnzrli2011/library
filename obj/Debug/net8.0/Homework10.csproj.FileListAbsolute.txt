@@ -1,0 +1,14 @@
+/home/mrcat2/Programming/C#/Homework10/bin/Debug/net8.0/Homework10
+/home/mrcat2/Programming/C#/Homework10/bin/Debug/net8.0/Homework10.deps.json
+/home/mrcat2/Programming/C#/Homework10/bin/Debug/net8.0/Homework10.runtimeconfig.json
+/home/mrcat2/Programming/C#/Homework10/bin/Debug/net8.0/Homework10.dll
+/home/mrcat2/Programming/C#/Homework10/bin/Debug/net8.0/Homework10.pdb
+/home/mrcat2/Programming/C#/Homework10/obj/Debug/net8.0/Homework10.GeneratedMSBuildEditorConfig.editorconfig
+/home/mrcat2/Programming/C#/Homework10/obj/Debug/net8.0/Homework10.AssemblyInfoInputs.cache
+/home/mrcat2/Programming/C#/Homework10/obj/Debug/net8.0/Homework10.AssemblyInfo.cs
+/home/mrcat2/Programming/C#/Homework10/obj/Debug/net8.0/Homework10.csproj.CoreCompileInputs.cache
+/home/mrcat2/Programming/C#/Homework10/obj/Debug/net8.0/Homework10.dll
+/home/mrcat2/Programming/C#/Homework10/obj/Debug/net8.0/refint/Homework10.dll
+/home/mrcat2/Programming/C#/Homework10/obj/Debug/net8.0/Homework10.pdb
+/home/mrcat2/Programming/C#/Homework10/obj/Debug/net8.0/Homework10.genruntimeconfig.cache
+/home/mrcat2/Programming/C#/Homework10/obj/Debug/net8.0/ref/Homework10.dll
